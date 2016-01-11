@@ -1,0 +1,23 @@
+{
+  "name": "polymer",
+  "authors": [
+    "cmtp <christian@koala-soft.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gold-elements": "PolymerElements/gold-elements#~1.0.1",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.7",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.7"
+  }
+}

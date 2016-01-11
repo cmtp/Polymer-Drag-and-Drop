@@ -1,0 +1,3 @@
+/*
+ * This javascript from app
+ */
